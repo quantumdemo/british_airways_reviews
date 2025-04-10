@@ -49,4 +49,4 @@ python sentiment_analysis.py
 Open the `excel` file to explore charts and insights.
 
 ## 🤝 Contributions
-Pull requests are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a PR.
+Pull requests are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a Pull Request.
